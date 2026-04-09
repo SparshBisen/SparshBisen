@@ -2,7 +2,7 @@
 -  I’m a AI Geek and a SDE at a Start-up. (Haven't taken any weekends off ever since I joined)   
 -  I’m looking to collaborate on open source projects also a job if you are interested. 
 -  You can contact me using sparshbisen@gmail.com 
--  Visit [NanoJupiter](https://www.nanojupiter.com)
+-  Visit: [NanoJupiter](https://www.nanojupiter.com)
 - My Work: [Realynks](https://realynks.com), [CrackrAI](https://www.crackr.ai)
 -  BYEE!!
 <!---
