@@ -5,7 +5,7 @@
 - 📫 You can contact me using sparshbisen@gmail.com 
 - :point_left: Also, I am learning GitHub so there will be some unnecessary repositories, kindly ignore as I am constantly practicing on GitHub for fluency of work and learning in GitHub.
 
-- My Website: https://www.nanojupiter.com/
+- My Website: nanojupiter.com
 <!---
 SparshBisen/SparshBisen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
